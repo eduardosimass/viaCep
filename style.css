@@ -1,0 +1,7 @@
+.box-inside {
+    font-size: 32px;
+    width: auto;
+    height: auto;
+    display: flexbox;
+    text-align: center;
+  }
